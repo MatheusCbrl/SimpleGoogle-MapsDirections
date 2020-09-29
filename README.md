@@ -1,1 +1,2 @@
-# SimpleGoogle-MapsDirections
+# maps
+Example using the Google Maps API
